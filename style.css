@@ -1,0 +1,182 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.banner{
+    background-color: #f4f4f4;
+    height: 210vh;
+}
+
+.navcontainer{
+    display: flex;
+    
+    align-items: center;
+}
+
+.navitems{
+    display: flex;
+    margin-left: 100px;
+    gap: 70px;
+}
+
+li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    font-size: 24px;
+    color: #3E2012;
+}
+
+.cof{
+    color: #EDC588;
+    font-size: 265px;
+    font-weight: 700;
+    padding-top: 100px;
+    
+}
+
+.weird{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.cup{
+    margin-bottom: 200px;
+}
+
+.weird2{
+   position: relative;
+   bottom: 500px;
+}
+
+.in2{
+    position: relative;
+    bottom: 500px;
+}
+
+.never{
+    color: #3F2318;
+    font-family: gotham;
+    font-weight: 700;
+    font-size: 32px;
+    width: 427px;
+}
+
+.ord{
+    background-color: #813A1A;
+    color: white;
+    border-color: #813A1A;
+}
+
+.read{
+    background-color: #813A1A;
+    color: white;
+    border-color: #813A1A;
+}
+
+.joy{
+    color: #3E2012;
+    font-weight: 700;
+    font-size: 41px;
+    font-family: gotham;
+}
+
+.in2{
+    margin-top: 120px;
+}
+.cup{
+    margin-top: -450px;
+}
+.beans{
+    margin-top: -1300px
+}
+
+.inner2{
+    margin-top: 30px;
+}
+
+.inner3{
+    margin-top: 30px;
+}
+.tab{
+    font-size: 35px;
+    color: white;
+    margin-top: 50px;
+}
+.tab2{
+    font-size: 40px;
+    width: 421px;
+    color: white;
+}
+.lo{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #3E2012;
+    color: white;
+    border-color: #3E2012;
+}
+.si{
+    text-align: center;
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #EDC588;
+    color: #813A1A;
+    border-color: #EDC588;
+}
+#funny{
+    background-image: url(img/coffee-bean-tea-espresso-coffee-cup-coffee-beans-27e3377b5fe4cf82cb69afad6b424366\ 1.png);
+    background-color: #3E2012;
+    height: 400px;
+    
+}
+input{
+    padding-top: 15px;
+    padding-right: 20x;
+    width: 250px;
+   
+}
+
+.site{
+    width: 363px;
+    height:70px ;
+    font-weight: 700;
+    color: #3E2012;
+    font-size: 32px;
+}
+
+.the{
+    width: 474px;
+    height: 190px;
+    font-weight: 400;
+    color: black;
+    padding-top: 50px;
+}
+
+.read2{
+    background-color: #813A1A;
+    color: white;
+    border-color: #813A1A;
+    margin-top: 50px;
+}
+.int1{
+    margin-top: -150px;
+    width: 10px;
+
+}
+
+.int2{
+    margin-top: -170px;
+    width: 10px;
+}
+
+.second{
+    background-color: #f4f4f4;
+}
