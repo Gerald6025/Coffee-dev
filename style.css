@@ -701,294 +701,20 @@ padding-right: 30px;
     padding-right: 0;
   
 }
-
-
-@media (max-width:767px){
-    .navitems{
-display: none;
+@media(max-width:1200px){
+    .banner{
+        width: 100%;
+        height: 1300px;
     }
-
-.cof{
-    font-size: 81px;
-    margin-top: 0px;
+    .sos{
+        width: 40%;
+        height: 80%;
+        object-fit: cover;
+    }
+       
 }
 
 
-.never{
-    font-size: 20px;
-    text-align: center;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-left: 40px;
-    margin-top: -60px;
-    width: 80%;
-}
-.cup{
-    width: 100%;
-    margin-top: 100px;
-    position: relative;
-    bottom: 320px;
-}
-
-.beans{
-    width: 80%;
-    position: relative;
-    bottom:40px;
-    right: 30px;
-  
-}
-
-.banner{
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-#funny{
-    margin-top: 80px;
-    height: 550px;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-}
-.tab2{
-    font-size: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
-    text-align: center;
-    margin-left: -45px;
-    padding-top: 30px;
-}
-.second{
-    margin-top: 200px;
-    height: 900px;
-}
-.si{
-    margin: 0px;
-   }
-
-.sur{
-    margin-top: 20px;
-}
-.lo{
-    margin-top: 10px;
-}
-.sos{
-    width: 94%;
-    height: 50%;
-    object-fit: cover;
-}
-.in6{
-    width: 100%;
-    margin-top: 300px;
-}
-.raw{
-    display: none;
-}
-.cup2{
-    display: none;
-}
-.int1{
-    display: none;
-}
-.int2{
-    display: none;
-}
-.third{
-    display: none;
-}
-.the{
-    width: 100%;
-    text-align: center;
-}
-.read2{
-    margin-top: 80px;
-    padding: 20px;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 10px;
-    margin-left: 95px;
-   
-}
-.read21{
-    margin-top: 80px;
-    padding: 20px;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 10px;
-    margin-left: 95px;
-    display: block;
-    background-color: #813A1A;
-     color: white;
-     border-color: #813A1A;
-     position: relative;
-     bottom: 120px;
-}
-.fifth{
-    height: 1500px;
-}
-.ind{
-    font-size: 15px;
-    width: 100%;
-    
-}
-.far{
-    padding-left: 0;
-    padding-right: 0;
-}
-#ant{
-    display: none;
-}
-.unt{
-    width: 100%;
-}
-.seven{
-    height: auto;
-}
-.provide{
-    font-size: 22px;
-}
-.ind2{
-    padding-left: 50px;
-    padding-right: 50px;
-    font-size: 15px;
-    width: 100%;
-}
-.tam{
-    width: 107.8%;
-}
-.matt{
-    width: 107%;
-    margin-top: 77px;
-    
-}
-.sh{
-    display: none;
-    padding-left: 0;
-    padding-right: 0;
-    width: 100%;
-}
-.hr1{
-    margin-left: 60px;
-    border: solid;
-    border-color: #813A1A;
-    height: 1px;
-    width: 70%;
-    margin-top: 80px;
-}
-.twit{
-    margin-left: 80px;
-}
-.fac{
-    margin-top: -80px;
-    margin-left: 40px;
-}
-.bon{
-    display: none;
-}
-.bon2{
-    display: none;
-}
-.bon3{
-    display: none;
-}
-.bon4{
-    display: none;
-}
-.he{
-    display: none;
-}
-.her{
-    display: none;
-}
-.him{
-    display: none;
-}
-.thad{
-    display: none;
-}
-.test2{
-    height: auto;
-}
-.fot{
-    width: 100%;
-}
-.co2{
-    display: none;
-}
-#be{
-    display: flex;
-    flex-direction: row;
-}
-.bi1{
-    width: 60px;
-    
-    margin-left: -90px;
-    margin-bottom: -70px;
-}
-.bi2{
-    width: 60px;
-    position: relative;
-    margin-left: -30px;
-    margin-bottom: -20px;
-    left: 30px;
-}
-.bi3{
-    width: 60px;
-    
-    margin-left: 50px;
-    margin-bottom: -170px;
-}
-.bi4{
-    width: 60px;
-    
-    margin-left: 150px;
-    margin-bottom: -10px;
-}
-
-#soc{
-    display: flex;
-}
-.test2{
-    height: 700px;
-}
-.logo{
-    display: none;
-}
-#pop{
-    display: block;
-    height: auto;
-    margin-right: 25px;
-    background-color: #000000;
- 
-}
-#popo{
-    height: auto;
-    background-color: #edc588;
-    color: white;
-    
-}
-#papa{
-    color: white;
-}
-#boy{
-    height: fit-content;
-}
-.banner{
-    width: 100%;
-}
-.second{
-    width: 100%;
-}
-.footer{
-    width: 100%;
-}
-#bad{
-    width: 10%;
-}
-
-}
 
 @media (min-width: 768px) and (max-width: 1024px) {
   .navitems {
@@ -1253,5 +979,304 @@ margin-top: 30px;
 .head2{
     width: 15px;
     margin-top: -15px;
+}
+}
+@media (max-width:767px){
+    .navitems{
+display: none;
+    }
+
+body{
+    overflow-x: hidden;
+}
+.cof{
+    font-size: 81px;
+    margin-top: 0px;
+}
+
+.footer{
+display: none;
+}
+.soc{
+    background-color: red;
+}
+#ov{
+    
+}
+.never{
+    font-size: 20px;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 40px;
+    margin-top: -60px;
+    width: 80%;
+}
+.cup{
+    width: 100%;
+    margin-top: 100px;
+    position: relative;
+    bottom: 320px;
+}
+
+.beans{
+    width: 80%;
+    position: relative;
+    bottom:40px;
+    right: 30px;
+  
+}
+
+.banner{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#funny{
+    margin-top: 80px;
+    height: 550px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.tab2{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    margin-left: -45px;
+    padding-top: 30px;
+}
+.second{
+    margin-top: 200px;
+    height: 900px;
+}
+.si{
+    margin: 0px;
+   }
+
+.sur{
+    margin-top: 20px;
+}
+.lo{
+    margin-top: 10px;
+}
+.sos{
+    width: 94%;
+    height: 50%;
+    object-fit: cover;
+}
+.in6{
+    width: 100%;
+    margin-top: 300px;
+}
+.raw{
+    display: none;
+}
+.cup2{
+    display: none;
+}
+.int1{
+    display: none;
+}
+.int2{
+    display: none;
+}
+.third{
+    display: none;
+}
+.the{
+    width: 100%;
+    text-align: center;
+}
+.read2{
+    margin-top: 80px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin-left: 95px;
+   
+}
+.read21{
+    margin-top: 80px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    margin-left: 95px;
+    display: block;
+    background-color: #813A1A;
+     color: white;
+     border-color: #813A1A;
+     position: relative;
+     bottom: 120px;
+}
+.fifth{
+    height: 1500px;
+}
+.ind{
+    font-size: 15px;
+    width: 100%;
+    
+}
+.far{
+    padding-left: 0;
+    padding-right: 0;
+}
+#ant{
+    display: none;
+}
+.unt{
+    width: 100%;
+}
+.seven{
+    height: auto;
+}
+.provide{
+    font-size: 22px;
+}
+.ind2{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 15px;
+    width: 100%;
+}
+.tam{
+    width: 107.8%;
+}
+.matt{
+    width: 107%;
+    margin-top: 77px;
+    
+}
+.sh{
+    display: none;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+.hr1{
+    margin-left: 60px;
+    border: solid;
+    border-color: #813A1A;
+    height: 1px;
+    width: 70%;
+    margin-top: 80px;
+}
+.twit{
+    margin-left: 80px;
+}
+.fac{
+    margin-top: -80px;
+    margin-left: 40px;
+}
+.bon{
+    display: none;
+}
+.bon2{
+    display: none;
+}
+.bon3{
+    display: none;
+}
+.bon4{
+    display: none;
+}
+.he{
+    display: none;
+}
+.her{
+    display: none;
+}
+.him{
+    display: none;
+}
+.thad{
+    display: none;
+}
+.test2{
+    height: auto;
+}
+.fot{
+    width: 100%;
+}
+.co2{
+    display: none;
+}
+#be{
+    display: flex;
+    flex-direction: row;
+}
+.bi1{
+    width: 60px;
+    
+    margin-left: -90px;
+    margin-bottom: -70px;
+}
+.bi2{
+    width: 60px;
+    position: relative;
+    margin-left: -30px;
+    margin-bottom: -20px;
+    left: 30px;
+}
+.bi3{
+    width: 60px;
+    
+    margin-left: 50px;
+    margin-bottom: -170px;
+}
+.bi4{
+    width: 60px;
+    
+    margin-left: 150px;
+    margin-bottom: -10px;
+}
+
+#soc{
+    display: flex;
+}
+.test2{
+    height: 700px;
+}
+.logo{
+    display: none;
+}
+#pop{
+    display: block;
+    height: auto;
+    margin-right: 0px;
+    background-color: #000000;
+ 
+}
+.soc{
+    background-color: red;
+}
+#popo{
+    height: auto;
+    background-color: #edc588;
+    color: white;
+    
+}
+#papa{
+    color: white;
+}
+#boy{
+    height: fit-content;
+}
+.banner{
+    width: 100%;
+}
+.second{
+    width: 100%;
+}
+.footer{
+    width: 100%;
+}
+#bad{
+    width: 10%;
 }
 }
