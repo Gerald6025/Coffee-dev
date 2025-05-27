@@ -1251,7 +1251,7 @@ body{
     display: block;
     height: auto;
     margin-right: 0px;
-    background-color: #000000;
+    overflow-x: hidden;
  
 }
 .soc{
