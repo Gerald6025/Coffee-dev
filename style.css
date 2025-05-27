@@ -16,7 +16,9 @@ body{
     
     align-items: center;
 }
-
+.tab2{
+    font-size: 20px;
+}
 #pop{
     display: none;
 }
@@ -131,7 +133,7 @@ li a{
     margin-top: 50px;
 }
 .tab2{
-    font-size: 40px;
+    font-size: 30px;
     width: 421px;
     color: white;
 }
@@ -995,7 +997,7 @@ body{
 }
 
 .footer{
-display: none;
+    overflow-x: hidden;
 }
 .soc{
     background-color: red;
